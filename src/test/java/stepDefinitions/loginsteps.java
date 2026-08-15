@@ -42,6 +42,8 @@ public class loginsteps {
 	public void profile_should_get_deleted() {
 	    System.out.println("profile deletion validated!!");
 	}
+
+	System.out.println("next we perform sanity on that!");
 	
 	
 	
